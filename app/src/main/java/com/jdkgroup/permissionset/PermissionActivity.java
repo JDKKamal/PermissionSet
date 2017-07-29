@@ -2,17 +2,12 @@ package com.jdkgroup.permissionset;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-
-
 import android.Manifest;
-import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat.OnRequestPermissionsResultCallback;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatButton;
 import android.util.Log;
 import android.view.View;
-import android.widget.Button;
 
 import java.util.ArrayList;
 
